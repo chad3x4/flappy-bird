@@ -1,3 +1,3 @@
 # Flappy Bird bằng Python
 
-![image](assests\cover.png)
+![image](assests/cover.png)
