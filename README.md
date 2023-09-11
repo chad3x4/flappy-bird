@@ -1,2 +1,3 @@
-# flappy-bird
-Flappy Bird with Python
+# Flappy Bird bằng Python
+
+![image](assests\cover.png)
